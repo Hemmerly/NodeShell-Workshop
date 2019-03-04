@@ -1,5 +1,3 @@
-const fs = require('fs')
-
 const input = process.stdin.on('data', (data)=>{
     const cmd = data.toString().trim();
 
